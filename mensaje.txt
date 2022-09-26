@@ -1,8 +1,12 @@
+
 hola mundo de fresa
+
 adios venus
 
 linea1
 linea2
 
-linea40
-linea50
+
+lineax
+lineay
+
